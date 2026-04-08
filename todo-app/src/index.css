@@ -1,1 +1,7 @@
 @import "tailwindcss";
+.smaller {
+  font-size: 1.1rem;
+}
+.regis {
+  background-color: black;
+}
